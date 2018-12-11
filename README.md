@@ -3,11 +3,8 @@ Dies ist eine Weiterentwicklung von JavaKarol, welches von Ulli Freiberger entwi
 Changelog:
 
 V2.1:
+
 	-	verschiedene Ziegel hinzugefügt
 
 	-	geändertes Design
-
-
-V2.2:
-	-	bei den Methoden "Schritt(), Hinlegen(), Aufheben(), LinksDrehen(), RechtsDrehen()" kann jetzt als Parameter angegeben wie oft sie wiederholt werden
 
