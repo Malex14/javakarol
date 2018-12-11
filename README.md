@@ -1,4 +1,4 @@
-Dies ist eine Weiterentwicklung von JavaKarol, welches ursprünglich von Ulli Freiberger entwickelt wurde.
+Dies ist eine Weiterentwicklung von JavaKarol, welches von Ulli Freiberger entwickelt wurde, da diese Software warscheinlich nich mehr weiterentwickelt wird ist hier eine Version in der benötigte Veränderungen vorgenommen wurden.
 
 Changelog:
 V2.1:
@@ -6,3 +6,5 @@ V2.1:
 	-	geändertes Design
 v2.2:
 	-	bei den Methoden "Schritt(), Hinlegen(), Aufheben(), LinksDrehen(), RechtsDrehen()" kann jetzt als Parameter angegeben wie oft sie wiederholt werden
+
+	
