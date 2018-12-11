@@ -4,9 +4,10 @@ Changelog:
 
 V2.1:
 	-	verschiedene Ziegel hinzugefügt
+
 	-	geändertes Design
 
 
-v2.2:
+V2.2:
 	-	bei den Methoden "Schritt(), Hinlegen(), Aufheben(), LinksDrehen(), RechtsDrehen()" kann jetzt als Parameter angegeben wie oft sie wiederholt werden
 
